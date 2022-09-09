@@ -2,7 +2,7 @@
 ### **Name:** *Martynenko Sergey*
 ### **Country:** *Belarus*
 ### **City:** *Gomel*
----
+___
 
 ## Education
 
@@ -32,4 +32,4 @@ ___
 * Developed VBA and Google Apps Script.
 * Have an idea of HTML, CSS, JAVASCRIPT.
 
-### English level A0-A1. I'm learning English.
+### English level A0-A1. I фьm learning English.
